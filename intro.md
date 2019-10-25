@@ -1,6 +1,6 @@
 # 产品简介
 
-{{indexmenu_n>10}}
+
 
 容器集群 UDocker 是UCloud推出的类 Kubernetes 的容器微服务管理平台。
 

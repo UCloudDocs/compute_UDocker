@@ -1,6 +1,6 @@
 # 容器集群 UDocker
 
-{{indexmenu_n>5}}
+
 
 容器集群 UDocker 是 UCloud 推出的自研的类 Kubernetes 容器服务平台。
 
@@ -26,4 +26,4 @@ UDocker可以让用户方便创建和管理容器和集群。
 
 #### 目录
 
-{{indexmenu>:compute:udocker#1 | nsort dsort msort}}
+
