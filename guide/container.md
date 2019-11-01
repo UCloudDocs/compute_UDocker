@@ -22,7 +22,7 @@
 
 ### 绑定EIP
 
-选择对应容器，在功能菜单“…”中，选取“绑定弹性IP” ![](/compute/udocker/guide/容器绑定eip.png)
+选择对应容器，在功能菜单“…”中，选取“绑定弹性IP” ![](/images/guide/容器绑定eip.png)
 
 ### 解绑EIP
 
