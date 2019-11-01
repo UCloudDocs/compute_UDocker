@@ -11,7 +11,7 @@
 ### 创建服务
 
 创建服务需要指定Proxy 的个数、端口映射；创建完成后，会自动创建基于haproxy 的proxy 容器，用来做服务的请求转发和对Pod
-的负载均衡，提供service 的内网服务能力。 ![](/compute/udocker/guide/创建服务.png)
+的负载均衡，提供service 的内网服务能力。 ![](/images/guide/创建服务.png)
 
 ### 创建Pod
 
@@ -26,7 +26,7 @@ Pod 为服务里真正工作的容器；创建好服务后，可以在服务列�
 
 可以把Proxy 绑定到ULB；ULB 提供service
 的外网访问能力。首先要先创建好ULB（ULB的vserver后端端口，需要跟Proxy的前端端口一致），然后选择对应的服务，选择详情，选择Proxy
-绑定ULB，选择对应的ULB进行绑定； ![](/compute/udocker/guide/服务绑定ULB.png)
+绑定ULB，选择对应的ULB进行绑定； ![](/images/guide/服务绑定ULB.png)
 
 ### 绑定EIP
 
