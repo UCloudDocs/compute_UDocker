@@ -32,4 +32,4 @@
 ### 监控和告警
 
 在Pod 详情中，“监控信息”可以查看该Pod 的监控情况。在Umon可以对Pod 进行告警模板设置和监控。 UMon
-参考：<https://docs.ucloud.cn/management_monitor/umon/index>
+参考：<https://docs.ucloud.cn/umon/README>

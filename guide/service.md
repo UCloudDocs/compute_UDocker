@@ -39,4 +39,4 @@ Pod 为服务里真正工作的容器；创建好服务后，可以在服务列�
 ### 监控告警
 
 在服务详情，在“监控信息”里可以查看Proxy 和Pod 的性能监控情况。在Umon 里可以设置告警模板。 UMon
-参考：<https://docs.ucloud.cn/management_monitor/umon/index>
+参考：<https://docs.ucloud.cn/umon/README>

@@ -35,4 +35,4 @@
 ### 监控告警
 
 在容器详情中，选择“监控信息”tab，可以查看容器的监控数据。在Umon 产品中，可以设置对应的告警模板和新增告警监控。 UMon
-参考：<https://docs.ucloud.cn/management_monitor/umon/index>
+参考：<https://docs.ucloud.cn/umon/README>

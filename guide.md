@@ -104,7 +104,7 @@
 
 ### 使用uhub 提交镜像
 
-参考uhub 文档： <https://docs.ucloud.cn/compute/uhub/guide>
+参考uhub 文档： <https://docs.ucloud.cn/uhub/guide>
 
 ### 创建镜像
 

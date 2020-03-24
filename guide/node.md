@@ -23,4 +23,4 @@
 在节点列表页面，选择“监控信息”tab，可以查看节点的监控数据； ![](/images/guide/节点监控.png)
 
 告警：在Umon
-产品中，可以创建告警模板，然后把需要监控告警的特性和节点，加入资源监控中。实现节点的监控和告警。Umon参考：<https://docs.ucloud.cn/management_monitor/umon/index>
+产品中，可以创建告警模板，然后把需要监控告警的特性和节点，加入资源监控中。实现节点的监控和告警。Umon参考：<https://docs.ucloud.cn/umon/README>
