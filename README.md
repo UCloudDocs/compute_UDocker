@@ -1,6 +1,6 @@
 # 概览
 
-* [产品简介。](/udocker/intro) 
+* [产品简介](/udocker/intro) 
 * [适用场景](/udocker/suit) 
 * 操作指南
     * [集群管理](/udocker/guide/cluster)
